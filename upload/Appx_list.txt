@@ -1,0 +1,4 @@
+C:\Users\fict\Desktop\VM6680G driver\driver\driver\IRST Utility_Intel_18.1.1015.0_W10x64_A\IRST Utility_Intel_18.1.1015.0_W10x64\Dependency\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_arm64__8wekyb3d8bbwe.appx
+C:\Users\fict\Desktop\VM6680G driver\driver\driver\IRST Utility_Intel_18.1.1015.0_W10x64_A\IRST Utility_Intel_18.1.1015.0_W10x64\Dependency\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_arm__8wekyb3d8bbwe.appx
+C:\Users\fict\Desktop\VM6680G driver\driver\driver\IRST Utility_Intel_18.1.1015.0_W10x64_A\IRST Utility_Intel_18.1.1015.0_W10x64\Dependency\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_x64__8wekyb3d8bbwe.appx
+C:\Users\fict\Desktop\VM6680G driver\driver\driver\IRST Utility_Intel_18.1.1015.0_W10x64_A\IRST Utility_Intel_18.1.1015.0_W10x64\Dependency\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_x86__8wekyb3d8bbwe.appx

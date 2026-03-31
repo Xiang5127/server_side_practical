@@ -16,6 +16,7 @@ require('database.php');
 <p><a href="insert.php">Insert New Product</a></p>
 <p><a href="view.php">View Product Records</a></p>
 <p><a href="user_profile.php"> Add New User Information </a></p>
+<p><a href="file_manager.php">Upload File</a></p>
 <a href="logout.php">Logout</a>
 </div>
 </body>
