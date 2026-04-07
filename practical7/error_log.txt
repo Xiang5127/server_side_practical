@@ -1,0 +1,2 @@
+[2026-04-07 03:58:24] [2] Undefined variable $nonexistentVariable in C:\xampp\htdocs\practical\server_side_practical\practical7\simulate_errors.php on line 5
+[2026-04-07 03:58:24] Exception: Division by zero
